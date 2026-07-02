@@ -1,1 +1,11 @@
-# Figma
+<img width="2560" height="1112" alt="SignUp" src="https://github.com/user-attachments/assets/d9bec645-9124-4730-8d13-628935c7c78b" />
+<img width="2554" height="1111" alt="HomePage" src="https://github.com/user-attachments/assets/445fa524-e020-44ec-89ea-a90c7265f46b" />
+<img width="2546" height="1119" alt="HomePage3" src="https://github.com/user-attachments/assets/1d6426e5-2bcf-4aad-ac6f-94e3da069a36" />
+<img width="2545" height="1119" alt="HomePage4" src="https://github.com/user-attachments/assets/a248457d-8382-4302-88c4-df98285e0389" />
+<img width="2556" height="1112" alt="HomePage5" src="https://github.com/user-attachments/assets/7f9e6005-6ab7-4e30-a59c-cbcbe20b7aa5" />
+<img width="2543" height="1136" alt="HomePage6" src="https://github.com/user-attachments/assets/c44edde1-5bda-4139-98df-e5721c84a221" />
+<img width="2556" height="1116" alt="ShopPage" src="https://github.com/user-attachments/assets/997565b2-600d-4d23-98f7-f4fa74fb2a25" />
+<img width="2557" height="1122" alt="ServicePage" src="https://github.com/user-attachments/assets/41574819-15a0-4a17-920f-63602bb58da5" />
+<img width="2560" height="1117" alt="AboutPage" src="https://github.com/user-attachments/assets/240d5557-8d6c-4cf1-b74d-5599370d5060" />
+<img width="2560" height="1120" alt="ContactUs" src="https://github.com/user-attachments/assets/74053d41-a5d5-4dd3-976c-1aa47f2025cb" />
+<img width="2560" height="1121" alt="CartPage" src="https://github.com/user-attachments/assets/7e6af37d-ce71-4dbe-99c4-1c845e2686ba" />
